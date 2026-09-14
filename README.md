@@ -33,20 +33,22 @@ dann ausschließlich über die Adresse oben.
 |---|---|
 | Betriebssystem | Windows 10 oder 11, 64 Bit |
 | Arbeitsspeicher | 16 GB, mehr schadet nicht |
-| Grafikkarte | NVIDIA mit CUDA, ab 6 GB. Ohne läuft es ebenfalls, nur langsamer. |
+| Grafikkarte | NVIDIA mit CUDA, ab 8 GB. Ohne NVIDIA-Grafikkarte wird nicht gerechnet. |
 | Festplatte | SSD, rund 1 GB je Dachprojekt |
 | Internet | nicht erforderlich — auch nicht zum Freischalten |
 
 ## Kaufen und freischalten
 
-Zu kaufen über **[drohnenshop.at](https://drohnenshop.at)**. Die Freischaltung
-läuft offline: Gerätekennung aus dem Programm an **roof@flightlab.at** senden,
-Schlüsseldatei zurückbekommen, einsetzen. Es wird zu keinem Zeitpunkt eine
-Verbindung nach außen aufgebaut.
+Zu kaufen über **[drohnenshop.at](https://drohnenshop.at/products/flightlab-roof)** (490 € brutto).
+Die Gerätekennung aus dem Programm wird beim Bestellen ins Feld
+„Gerätekennung" eingetragen; der Freischaltschlüssel kommt per E-Mail. Wer
+sie vergessen hat, reicht sie mit der Bestellnummer an
+**roof@flightlab.at** nach. Es wird zu keinem Zeitpunkt eine Verbindung
+nach außen aufgebaut.
 
 ## Anbieter
 
-**Drone Life Systems FlexCo** · Unterfreundorf 17, A-4076 Unterfreundorf,
-Österreich · FN 624110i · UID ATU80636956 · GISA 37719746
+**Drone Life Systems FlexCo** · Unterfreundorf 17, A-4076 Unterfreundorf, Österreich · FN 624110i · UID ATU80636956
+· GISA 37719746
 
 Schwachstellenmeldungen: **security@flightlab.at**
