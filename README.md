@@ -33,8 +33,8 @@ dann ausschließlich über die Adresse oben.
 |---|---|
 | Betriebssystem | Windows 10 oder 11, 64 Bit |
 | Arbeitsspeicher | 16 GB, mehr schadet nicht |
-| Grafikkarte | NVIDIA mit CUDA, ab 8 GB. Ohne NVIDIA-Grafikkarte wird nicht gerechnet. |
-| Festplatte | SSD, rund 1 GB je Dachprojekt |
+| Grafikkarte | NVIDIA mit CUDA, empfohlen 8 GB Grafikspeicher, Untergrenze 2 GB. Ohne NVIDIA-Grafikkarte wird nicht gerechnet. |
+| Festplatte | SSD; beim Rechnen rund 225 MB je Aufnahme, also rund 7 GB bei 30 und rund 18 GB bei 80 Aufnahmen |
 | Internet | nicht erforderlich — auch nicht zum Freischalten |
 
 ## Kaufen und freischalten
@@ -43,8 +43,8 @@ Zu kaufen über **[drohnenshop.at](https://drohnenshop.at/products/flightlab-roo
 Die Gerätekennung aus dem Programm wird beim Bestellen ins Feld
 „Gerätekennung" eingetragen; der Freischaltschlüssel kommt per E-Mail. Wer
 sie vergessen hat, reicht sie mit der Bestellnummer an
-**roof@flightlab.at** nach. Es wird zu keinem Zeitpunkt eine Verbindung
-nach außen aufgebaut.
+**roof@flightlab.at** nach. Das Freischalten selbst braucht keine Verbindung
+nach außen.
 
 ## Anbieter
 
